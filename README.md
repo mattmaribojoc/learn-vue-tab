@@ -1,4 +1,6 @@
-This is the starter code for the LearnVue Reusable Tabs Component Tutorial.
+# LearnVue Reusable Tabs Component Tutorial
+
+This is the starter code for the learnvue.co Reusable Tabs Component Tutorial.
 
 To simplify this repo, we used a global install of the vue-cli.
 
