@@ -11,3 +11,5 @@ In order to run this repo, do vue/cli-service-global by
 And run the app using
 
 `vue serve src/Demo.vue`.
+
+For further questions, email matt@learnvue.co or checkout learnvue.co
